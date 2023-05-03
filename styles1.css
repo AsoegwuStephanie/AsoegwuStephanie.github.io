@@ -197,38 +197,7 @@ a {
       transform: translateY(0);
     }
   }
-  @-moz-keyframes byBottom {
-    0% {
-      transform: translateY(150%);
-    }
-    100% {
-      transform: translateY(0);
-    }
-  }
-  @-webkit-keyframes byBottom {
-    0% {
-      transform: translateY(150%);
-    }
-    100% {
-      transform: translateY(0);
-    }
-  }
-  @-o-keyframes byBottom {
-    0% {
-      transform: translateY(150%);
-    }
-    100% {
-      transform: translateY(0);
-    }
-  }
-  @keyframes byBottom {
-    0% {
-      transform: translateY(150%);
-    }
-    100% {
-      transform: translateY(0);
-    }
-  }
+ 
   @-moz-keyframes linkAfter {
     0% {
       width: 0;
